@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">16_PhanNguyenTrongTan_AD_MIDTEST</string>
+    <string name="Gross_Income">Gross income</string>
+    <string name="round_net_income">round net income</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="net_income">Net income:</string>
+</resources>
